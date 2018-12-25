@@ -1,0 +1,10 @@
+{
+	"name": "content-filtering",
+	"version": "0.0.0",
+	"dependencies": {
+		"array-sort": "^1.0.0",
+		"micromatch": "^3.1.10",
+		"sort-array": "^2.0.0",
+		"tape": "^4.9.1"
+	}
+}
